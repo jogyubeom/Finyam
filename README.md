@@ -35,4 +35,3 @@
 - Vue.js
 - Pinia
 - chart.js
-- 
